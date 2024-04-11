@@ -1,1 +1,1 @@
-# Random-col-gen
+The given program output has 2 division one where hex color code is generated randomly and gets copied if we click copy to clipboard .The another division gives rgb color code based on the range we selected and like the another one,it copies the code and can be used somewhere else
